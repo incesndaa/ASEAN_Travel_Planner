@@ -1,5 +1,5 @@
-menggunakan modul streamlit, cara installnya diterminal vscode
-pip install streamlit
+menggunakan modul streamlit, cara installnya diterminal vscode 
+pip install streamlit || 
 pip install streamlit_option_menu
 
 cara run diterminal :
